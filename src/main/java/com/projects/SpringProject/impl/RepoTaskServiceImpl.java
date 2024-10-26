@@ -11,7 +11,7 @@ import java.util.List;
 
 
 //Реализация SQL запросов
-//Сервис, оперирующий данными в бд
+//Сервис, оперирующий данными в базе данных
 @Primary
 @AllArgsConstructor
 @Service
